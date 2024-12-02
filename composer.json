@@ -1,0 +1,17 @@
+{
+    "name": "hohlo/inline-test-task",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ol22ga",
+            "email": "chochlovaos5@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "1.*"
+    }
+}
